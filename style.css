@@ -1,0 +1,83 @@
+#container{
+border:none;
+display: grid;
+grid-template-columns: 50% 50%;
+margin: auto;
+
+
+
+}
+
+.photos{
+    border: none;
+    display: grid;
+    border-right: solid 3px purple;
+    color:purple;
+    padding: 80px;
+    margin: auto;
+    
+    
+    
+}
+
+.forms{
+
+    border: none;
+    display:grid;
+    padding: 5px;
+    
+    
+    
+    
+    
+
+}
+
+#header{
+    color: blueviolet;
+
+}
+
+#headers{
+    color: blueviolet;
+}
+.img{
+   width: 400px;
+   height: 400px;
+   
+}
+.button{
+    color:white;
+    background-color: purple;
+    border: none;
+    padding: 12px 22px;
+    width: 60%;
+
+}
+#fb{
+    color: blue;
+    
+
+
+}
+#ggl{
+    height: 15px;
+    width: 15px;
+
+}
+.input{
+    border: solid 1px;
+   width: 60%;
+   padding: 12px 22px;
+
+
+}
+.all{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    
+
+
+}
+
+
